@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Zuordnung";
+$lang['add_title'] = "Eine Aufgabe Hinzufügen";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "Klasse";
+$lang['assignment_title'] = "Titel";
+$lang['assignment_description'] = "Beschreibung";
+$lang['assignment_deadlinedate'] = "Frist";
+$lang['assignment_uploder'] = "Uploader";
+$lang['assignment_student'] = "Schüler";
+$lang['assignment_roll'] = "Rollen";
+$lang['assignment_submission'] = "Abgabetermin";
+$lang['assignment_section'] = "Sektion";
+$lang['assignment_subject'] = "Gegenstand";
+$lang['assignment_select_classes'] = "Klasse Auswählen";
+$lang['assignment_select_student'] = "Schüler Auswählen";
+$lang['assignment_select_section'] = "Abschnitt Auswählen";
+$lang['assignment_select_subject'] = "Betreff Auswählen";
+$lang['assignment_file'] = "Datei";
+$lang['assignment_file_browse'] = "Datei Durchsuchen";
+$lang['assignment_clear'] = "Klar";
+$lang['assignment_ans'] = "Antworten";
+$lang['assignment_ans_list'] = "Antwortliste";
+$lang['action'] = "Aktion";
+$lang['download'] = "Herunterladen";
+$lang['view'] = "Aussicht";
+$lang['edit'] = "Bearbeiten";
+$lang['delete'] = "Löschen";
+$lang['upload'] = "Hochladen";
+$lang['add_assignment_ans'] = "Antwort Hinzufügen";
+$lang['add_assignment'] = "Zuordnung Hinzufügen";
+$lang['update_assignment'] = "Zuordnung Aktualisieren";

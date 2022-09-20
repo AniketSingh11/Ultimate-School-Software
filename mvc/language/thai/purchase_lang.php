@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "ซื้อ";
+$lang['add_title'] = "เพิ่มการสั่งซื้อ";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "หัวข้อ";
+$lang['purchase_assetID'] = "สินทรัพย์";
+$lang['purchase_quantity'] = "ปริมาณ";
+$lang['purchase_unit'] = "หน่วย";
+$lang['purchase_vendorID'] = "ผู้ขาย";
+$lang['purchase_date'] = "วันที่ซื้อ";
+$lang['purchase_unit_kg'] = "กิโลกรัม";
+$lang['purchase_unit_piece'] = "ชิ้น";
+$lang['purchase_unit_other'] = "อื่น ๆ";
+$lang['purchase_unit'] = "หน่วย";
+$lang['purchase_select_unit'] = "เลือกหน่วย";
+$lang['purchase_service_date'] = "วันที่ให้บริการ";
+$lang['purchase_expire_date'] = "วันที่หมดอายุ";
+$lang['purchase_price'] = "ราคาซื้อ";
+$lang['purchased_by'] = "ซื้อโดย";
+$lang['purchase_select_asset'] = "เลือกเนื้อหา";
+$lang['purchase_select_vendor'] = "เลือกผู้ขาย";
+$lang['purchase_select_purchased_by'] = "เลือกผู้ใช้";
+$lang['action'] = "การกระทำ";
+$lang['view'] = "ดู";
+$lang['edit'] = "แก้ไข";
+$lang['delete'] = "ลบ";
+$lang['purchase_status_not_approved'] = "ยังไม่ผ่านการอนุมัติ";
+$lang['purchase_status_approved'] = "ได้รับการอนุมัติ";
+$lang['add_purchase'] = "เพิ่มการซื้อ";
+$lang['update_purchase'] = "อัปเดตซื้อ";

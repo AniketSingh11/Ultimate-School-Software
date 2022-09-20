@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "Satın Alma";
+$lang['add_title'] = "Bir Satın Alma Ekle";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "Başlık";
+$lang['purchase_assetID'] = "Varlık";
+$lang['purchase_quantity'] = "Miktar";
+$lang['purchase_unit'] = "Birim";
+$lang['purchase_vendorID'] = "Satıcı";
+$lang['purchase_date'] = "Satınalma Tarihi";
+$lang['purchase_unit_kg'] = "Kilogram";
+$lang['purchase_unit_piece'] = "Parça";
+$lang['purchase_unit_other'] = "Diğer";
+$lang['purchase_unit'] = "Birim";
+$lang['purchase_select_unit'] = "Birim Seç";
+$lang['purchase_service_date'] = "Hizmet Tarihi";
+$lang['purchase_expire_date'] = "Son Kullanma Tarihi";
+$lang['purchase_price'] = "Alış Fiyatı";
+$lang['purchased_by'] = "Tarafından Satın Alın";
+$lang['purchase_select_asset'] = "Varlık Seç";
+$lang['purchase_select_vendor'] = "Satıcı Seç";
+$lang['purchase_select_purchased_by'] = "Kullanıcıyı Seç";
+$lang['action'] = "Aksiyon";
+$lang['view'] = "Görünüm";
+$lang['edit'] = "Düzenleme";
+$lang['delete'] = "Silmek";
+$lang['purchase_status_not_approved'] = "Onaylanmamış";
+$lang['purchase_status_approved'] = "Onaylı";
+$lang['add_purchase'] = "Satın Alma Ekle";
+$lang['update_purchase'] = "Satın Alma Güncelleme";

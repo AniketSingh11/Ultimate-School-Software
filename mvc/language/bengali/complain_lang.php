@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "নালিশ করা";
+$lang['add_title'] = "একটি অভিযোগ যোগ করুন";
+$lang['slno'] = "#";
+$lang['complain_title'] = "খেতাব";
+$lang['complain_usertypeID'] = "ব্যবহারকারীর ভূমিকা";
+$lang['complain_userID'] = "ব্যবহারকারী";
+$lang['complain_classID'] = "শ্রেণী";
+$lang['complain_description'] = "বিবরণ";
+$lang['complain_attachment'] = "ক্রোক";
+$lang['complain_select_users'] = "ব্যবহারকারী নির্বাচন করুন";
+$lang['complain_select_usertype'] = "Usertype নির্বাচন করুন";
+$lang['complain_select_class'] = "ক্লাস নির্বাচন করুন";
+$lang['complain_file_browse'] = "ফাইল ব্রাউজ করুন";
+$lang['complain_clear'] = "পরিষ্কার";
+$lang['complain_add'] = "যোগ";
+$lang['action'] = "কর্ম";
+$lang['view'] = "দৃশ্য";
+$lang['edit'] = "সম্পাদন করা";
+$lang['delete'] = "মুছে ফেলা";
+$lang['print'] = "ছাপা";
+$lang['pdf_preview'] = "পিডিএফ প্রাকদর্শন";
+$lang["mail"] = "মেল এ পিডিএফ পাঠান";
+$lang['add_complain'] = "অভিযোগ জুড়ুন";
+$lang['update_complain'] = "অভিযোগ আপডেট করুন";
+$lang['to'] = "থেকে";
+$lang['subject'] = "বিষয়";
+$lang['message'] = "বার্তা";
+$lang['send'] = "পাঠান";
+$lang['mail_to'] = "ক্ষেত্রের প্রয়োজন।";
+$lang['mail_valid'] = "ক্ষেত্রের মধ্যে একটি বৈধ ইমেল ঠিকানা থাকা আবশ্যক।";
+$lang['mail_subject'] = "বিষয় ক্ষেত্রের প্রয়োজন।";
+$lang['mail_success'] = "ইমেল পাঠান সফলভাবে!";
+$lang['mail_error'] = "ওহো! ইমেল পাঠাও না!";

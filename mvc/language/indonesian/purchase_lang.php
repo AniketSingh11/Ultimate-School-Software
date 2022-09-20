@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "Membeli";
+$lang['add_title'] = "Tambahkan Pembelian";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "Judul";
+$lang['purchase_assetID'] = "Aset";
+$lang['purchase_quantity'] = "Kuantitas";
+$lang['purchase_unit'] = "Satuan";
+$lang['purchase_vendorID'] = "Penjaja";
+$lang['purchase_date'] = "Tanggal Pembelian";
+$lang['purchase_unit_kg'] = "Kg";
+$lang['purchase_unit_piece'] = "Bagian";
+$lang['purchase_unit_other'] = "Lain";
+$lang['purchase_unit'] = "Satuan";
+$lang['purchase_select_unit'] = "Pilih Unit";
+$lang['purchase_service_date'] = "Tanggal Layanan";
+$lang['purchase_expire_date'] = "Tanggal Kadaluarsa";
+$lang['purchase_price'] = "Harga Pembelian";
+$lang['purchased_by'] = "Pembelian Oleh";
+$lang['purchase_select_asset'] = "Pilih Aset";
+$lang['purchase_select_vendor'] = "Pilih Vendor";
+$lang['purchase_select_purchased_by'] = "Pilih Pengguna";
+$lang['action'] = "Tindakan";
+$lang['view'] = "Melihat";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Menghapus";
+$lang['purchase_status_not_approved'] = "Tidak Disetujui";
+$lang['purchase_status_approved'] = "Disetujui";
+$lang['add_purchase'] = "Tambahkan Pembelian";
+$lang['update_purchase'] = "Perbarui Pembelian";

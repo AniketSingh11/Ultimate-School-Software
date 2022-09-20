@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "покупка";
+$lang['add_title'] = "Добавить покупку";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "заглавие";
+$lang['purchase_assetID'] = "Актив";
+$lang['purchase_quantity'] = "Количество";
+$lang['purchase_unit'] = "Ед. изм";
+$lang['purchase_vendorID'] = "продавец";
+$lang['purchase_date'] = "Дата покупки";
+$lang['purchase_unit_kg'] = "Кг";
+$lang['purchase_unit_piece'] = "Кусок";
+$lang['purchase_unit_other'] = "Другие";
+$lang['purchase_unit'] = "Ед. изм";
+$lang['purchase_select_unit'] = "Выберите блок";
+$lang['purchase_service_date'] = "Дата службы";
+$lang['purchase_expire_date'] = "Годен до";
+$lang['purchase_price'] = "Цена";
+$lang['purchased_by'] = "Покупка по";
+$lang['purchase_select_asset'] = "Выберите Asset";
+$lang['purchase_select_vendor'] = "Выберите поставщика";
+$lang['purchase_select_purchased_by'] = "Выберите пользователя";
+$lang['action'] = "действие";
+$lang['view'] = "Посмотреть";
+$lang['edit'] = "редактировать";
+$lang['delete'] = "Удалить";
+$lang['purchase_status_not_approved'] = "Не одобрено";
+$lang['purchase_status_approved'] = "утвержденный";
+$lang['add_purchase'] = "Добавить покупку";
+$lang['update_purchase'] = "Обновить покупку";

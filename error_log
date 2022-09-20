@@ -1,0 +1,10 @@
+[10-Feb-2018 07:29:43 Europe/London] PHP Fatal error:  Call to a member function result() on boolean in /home/tammanag/public_html/ult_school/mvc/models/Site_m.php on line 17
+[10-Feb-2018 07:30:22 Europe/London] PHP Fatal error:  Call to a member function result() on boolean in /home/tammanag/public_html/ult_school/mvc/models/Site_m.php on line 17
+[27-Feb-2018 07:16:19 Europe/London] PHP Fatal error:  Call to a member function result() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Site_m.php on line 17
+[27-Feb-2018 07:21:43 Europe/London] PHP Fatal error:  Call to a member function result() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Site_m.php on line 17
+[27-Feb-2018 10:07:16 Europe/London] PHP Fatal error:  Call to a member function result() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Site_m.php on line 17
+[16-Apr-2018 19:04:29 Europe/London] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Conversation_m.php on line 35
+[16-Apr-2018 19:04:32 Europe/London] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Conversation_m.php on line 35
+[19-Apr-2018 16:07:12 Europe/London] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Conversation_m.php on line 35
+[03-May-2018 13:30:12 Europe/London] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Conversation_m.php on line 35
+[03-May-2018 13:30:16 Europe/London] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/tameasy/public_html/ult_school/mvc/models/Conversation_m.php on line 35

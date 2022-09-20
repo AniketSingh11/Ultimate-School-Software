@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "परीक्षा अनुसूची";
+$lang['add_title'] = "एक परीक्षा कार्यक्रम जोड़ें";
+$lang['slno'] = "#";
+$lang['examschedule_name'] = "परीक्षा का नाम";
+$lang['examschedule_classes'] = "कक्षा";
+$lang['examschedule_all_examschedule'] = "सभी परीक्षा अनुसूचियां";
+$lang['examschedule_select_exam'] = "परीक्षा चुनें";
+$lang['examschedule_select_classes'] = "कक्षा चुनें";
+$lang['examschedule_select_department'] = "विभाग का चयन करें";
+$lang['examschedule_select_subject'] = "विषय चुनें";
+$lang['examschedule_select_section'] = "अनुभाग चुनें";
+$lang['examschedule_select_student'] = "विद्यार्थी का चयन करें";
+$lang['examschedule_section'] = "अनुभाग";
+$lang['examschedule_student'] = "छात्र";
+$lang['examschedule_subject'] = "विषय";
+$lang['examschedule_date'] = "तारीख";
+$lang['examschedule_time'] = "पहर";
+$lang['examschedule_examfrom'] = "समय से";
+$lang['examschedule_examto'] = "करने के लिए समय";
+$lang['examschedule_room'] = "कक्ष";
+$lang['examschedule_note'] = "ध्यान दें";
+$lang['examschedule_department'] = "विभाग";
+$lang['examschedule_quick_add'] = "त्वरित जोड़ें";
+$lang['action'] = "कार्य";
+$lang['view'] = "राय";
+$lang['edit'] = "संपादित करें";
+$lang['delete'] = "हटाना";
+$lang['add_examschedule'] = "परीक्षा अनुसूची जोड़ें";
+$lang['update_examschedule'] = "परीक्षा परीक्षा अनुसूची अद्यतन करें";

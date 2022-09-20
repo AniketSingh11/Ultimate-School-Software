@@ -1,0 +1,32 @@
+<?php
+
+$lang['panel_title'] = "Vacances";
+$lang['add_title'] = "Ajouter Un Jour Férié";
+$lang['slno'] = "#";
+$lang['holiday_title'] = "Titre";
+$lang['holiday_details'] = "Détails";
+$lang['holiday_date'] = "Rendez-vous Amoureux";
+$lang['holiday_fdate'] = "Partir De La Date";
+$lang['holiday_tdate'] = "À Ce Jour";
+$lang['holiday_photo'] = "Photo";
+$lang['action'] = "Action";
+$lang['holiday_file_browse'] = "Fichier Parcourir";
+$lang['holiday_clear'] = "Clair";
+$lang['holiday_header'] = "Détails De Vacances";
+$lang['view'] = "Vue";
+$lang['edit'] = "Modifier";
+$lang['delete'] = "Effacer";
+$lang['print'] = "Impression";
+$lang['pdf_preview'] = "Aperçu Pdf";
+$lang["mail"] = "Envoyer Pdf Au Courrier";
+$lang['add_class'] = "Ajouter Des Vacances";
+$lang['update_class'] = "Mettre à Jour Les Vacances";
+$lang['to'] = "À";
+$lang['subject'] = "Assujettir";
+$lang['message'] = "Message";
+$lang['send'] = "Envoyer";
+$lang['mail_to'] = "Le Champ À Est Requis.";
+$lang['mail_valid'] = "Le Champ À Doit Contenir Une Adresse électronique Valide.";
+$lang['mail_subject'] = "Le Champ Objet Est Requis.";
+$lang['mail_success'] = "Le Courrier électronique Envoie Avec Succès!";
+$lang['mail_error'] = "Oops! Email Pas Envoyé!";

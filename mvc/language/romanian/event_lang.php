@@ -1,0 +1,36 @@
+<?php
+
+$lang['panel_title'] = "Eveniment";
+$lang['add_title'] = "Adăugați Un Eveniment";
+$lang['slno'] = "#";
+$lang['event_title'] = "Titlu";
+$lang['event_details'] = "Detalii";
+$lang['event_header'] = "Detaliile Evenimentului";
+$lang['event_date'] = "Data";
+$lang['event_fdate'] = "Din Data";
+$lang['event_tdate'] = "La Zi";
+$lang['event_photo'] = "Fotografie";
+$lang['event_name'] = "Nume";
+$lang['event_user'] = "Utilizator";
+$lang['action'] = "Acțiune";
+$lang['event_clear'] = "Clar";
+$lang['event_file_browse'] = "Vizualizați Fișierul";
+$lang['view'] = "Vedere";
+$lang['edit'] = "Editați | ×";
+$lang['delete'] = "Șterge";
+$lang['print'] = "Imprimare";
+$lang['pdf_preview'] = "Previzualizare Pdf";
+$lang["mail"] = "Trimiteți Pdf La E-mail";
+$lang['going'] = "Mergând";
+$lang['ignore'] = "Ignora";
+$lang['add_class'] = "Adăugați Eveniment";
+$lang['update_class'] = "Actualizați Evenimentul";
+$lang['to'] = "La";
+$lang['subject'] = "Subiect";
+$lang['message'] = "Mesaj";
+$lang['send'] = "Trimite";
+$lang['mail_to'] = "Este Necesar Câmpul Către.";
+$lang['mail_valid'] = "Câmpul To Trebuie Să Conțină O Adresă De E-mail Validă.";
+$lang['mail_subject'] = "Este Necesar Câmpul Subiect.";
+$lang['mail_success'] = "E-mailul Trimite Cu Succes!";
+$lang['mail_error'] = "Oops! E-mail Nu Trimite!";

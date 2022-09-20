@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "Şikayet";
+$lang['add_title'] = "Bir Şikayet Ekleyin";
+$lang['slno'] = "#";
+$lang['complain_title'] = "Başlık";
+$lang['complain_usertypeID'] = "Kullanıcı Rolü";
+$lang['complain_userID'] = "Kullanıcı";
+$lang['complain_classID'] = "Sınıf";
+$lang['complain_description'] = "Açıklama";
+$lang['complain_attachment'] = "Ek Dosya";
+$lang['complain_select_users'] = "Kullanıcıyı Seç";
+$lang['complain_select_usertype'] = "Usertype'ı Seçin";
+$lang['complain_select_class'] = "Sınıfı Seç";
+$lang['complain_file_browse'] = "Dosyaya Göz At";
+$lang['complain_clear'] = "Açık";
+$lang['complain_add'] = "Eklemek";
+$lang['action'] = "Aksiyon";
+$lang['view'] = "Görünüm";
+$lang['edit'] = "Düzenleme";
+$lang['delete'] = "Silmek";
+$lang['print'] = "Baskı";
+$lang['pdf_preview'] = "Pdf Önizleme";
+$lang["mail"] = "Pdf To Mail Gönder";
+$lang['add_complain'] = "Şikayet Ekle";
+$lang['update_complain'] = "Şikayet Güncelle";
+$lang['to'] = "Için";
+$lang['subject'] = "Konu";
+$lang['message'] = "Mesaj";
+$lang['send'] = "Göndermek";
+$lang['mail_to'] = "Kime Alanına Girilmesi Zorunludur.";
+$lang['mail_valid'] = "Kime Alanına Geçerli Bir E-posta Adresi Olmalıdır.";
+$lang['mail_subject'] = "Konu Alanı Zorunludur.";
+$lang['mail_success'] = "E-posta Başarıyla Gönderilsin!";
+$lang['mail_error'] = "Oops! E-posta Gönderilmez!";

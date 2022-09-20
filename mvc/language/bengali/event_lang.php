@@ -1,0 +1,36 @@
+<?php
+
+$lang['panel_title'] = "ঘটনা";
+$lang['add_title'] = "একটি ইভেন্ট যোগ করুন";
+$lang['slno'] = "#";
+$lang['event_title'] = "খেতাব";
+$lang['event_details'] = "বিস্তারিত";
+$lang['event_header'] = "অনুষ্ঠানের বিবরণ";
+$lang['event_date'] = "তারিখ";
+$lang['event_fdate'] = "তারিখ হইতে";
+$lang['event_tdate'] = "এখন পর্যন্ত";
+$lang['event_photo'] = "ছবি";
+$lang['event_name'] = "নাম";
+$lang['event_user'] = "ব্যবহারকারী";
+$lang['action'] = "কর্ম";
+$lang['event_clear'] = "পরিষ্কার";
+$lang['event_file_browse'] = "ফাইল ব্রাউজ করুন";
+$lang['view'] = "দৃশ্য";
+$lang['edit'] = "সম্পাদন করা";
+$lang['delete'] = "মুছে ফেলা";
+$lang['print'] = "ছাপা";
+$lang['pdf_preview'] = "পিডিএফ প্রাকদর্শন";
+$lang["mail"] = "মেল এ পিডিএফ পাঠান";
+$lang['going'] = "চালু";
+$lang['ignore'] = "উপেক্ষা করা";
+$lang['add_class'] = "ইভেন্ট যোগ করুন";
+$lang['update_class'] = "ইভেন্ট আপডেট করুন";
+$lang['to'] = "থেকে";
+$lang['subject'] = "বিষয়";
+$lang['message'] = "বার্তা";
+$lang['send'] = "পাঠান";
+$lang['mail_to'] = "ক্ষেত্রের প্রয়োজন।";
+$lang['mail_valid'] = "ক্ষেত্রের মধ্যে একটি বৈধ ইমেল ঠিকানা থাকা আবশ্যক।";
+$lang['mail_subject'] = "বিষয় ক্ষেত্রের প্রয়োজন।";
+$lang['mail_success'] = "ইমেল পাঠান সফলভাবে!";
+$lang['mail_error'] = "ওহো! ইমেল পাঠাও না!";

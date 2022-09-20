@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "Se Plaindre";
+$lang['add_title'] = "Ajouter Une Plainte";
+$lang['slno'] = "#";
+$lang['complain_title'] = "Titre";
+$lang['complain_usertypeID'] = "Rôle D'utilisateur";
+$lang['complain_userID'] = "Utilisateur";
+$lang['complain_classID'] = "Classe";
+$lang['complain_description'] = "La Description";
+$lang['complain_attachment'] = "Attachement";
+$lang['complain_select_users'] = "Sélectionnez L'utilisateur";
+$lang['complain_select_usertype'] = "Sélectionnez Type D'utilisateur";
+$lang['complain_select_class'] = "Sélectionnez Une Classe";
+$lang['complain_file_browse'] = "Fichier Parcourir";
+$lang['complain_clear'] = "Clair";
+$lang['complain_add'] = "Ajouter";
+$lang['action'] = "Action";
+$lang['view'] = "Vue";
+$lang['edit'] = "Modifier";
+$lang['delete'] = "Effacer";
+$lang['print'] = "Impression";
+$lang['pdf_preview'] = "Aperçu Pdf";
+$lang["mail"] = "Envoyer Pdf Au Courrier";
+$lang['add_complain'] = "Ajouter Plainte";
+$lang['update_complain'] = "Mettre à Jour La Plainte";
+$lang['to'] = "À";
+$lang['subject'] = "Assujettir";
+$lang['message'] = "Message";
+$lang['send'] = "Envoyer";
+$lang['mail_to'] = "Le Champ À Est Requis.";
+$lang['mail_valid'] = "Le Champ À Doit Contenir Une Adresse électronique Valide.";
+$lang['mail_subject'] = "Le Champ Objet Est Requis.";
+$lang['mail_success'] = "Le Courrier électronique Envoie Avec Succès!";
+$lang['mail_error'] = "Oops! Email Non Envoyé!";

@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "付款设置";
+$lang['paypal_email'] = "贝宝电子邮件";
+$lang['paypal_api_username'] = "Paypal Api用户名";
+$lang['paypal_api_password'] = "Paypal Api密码";
+$lang['paypal_api_signature'] = "Paypal Api签名";
+$lang['paypal_demo'] = "贝宝沙盒";
+$lang['paypal_status'] = "Paypal状态";
+$lang['stripe_secret'] = "条纹秘密";
+$lang['stripe_demo'] = "条纹演示";
+$lang['stripe_status'] = "条纹状态";
+$lang['payumoney_key'] = "Payumoney钥匙";
+$lang['payumoney_salt'] = "Payumoney盐";
+$lang['payumoney_demo'] = "Payumoney演示";
+$lang['payumoney_status'] = "Payumoney状态";
+$lang['voguepay_merchant_id'] = "商家id";
+$lang['voguepay_merchant_ref'] = "商家参考";
+$lang['voguepay_developer_code'] = "开发者代码";
+$lang['voguepay_demo'] = "演示";
+$lang['voguepay_status'] = "状态";
+$lang['enable'] = "启用";
+$lang['disable'] = "禁用";
+$lang['save'] = "保存";
+$lang['tab_paypal'] = "贝宝";
+$lang['tab_stripe'] = "条纹";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "更新成功，";

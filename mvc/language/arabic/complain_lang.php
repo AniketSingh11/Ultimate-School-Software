@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "تذمر";
+$lang['add_title'] = "إضافة شكوى";
+$lang['slno'] = "#";
+$lang['complain_title'] = "عنوان";
+$lang['complain_usertypeID'] = "دور المستخدم";
+$lang['complain_userID'] = "المستعمل";
+$lang['complain_classID'] = "صف دراسي";
+$lang['complain_description'] = "وصف";
+$lang['complain_attachment'] = "المرفق";
+$lang['complain_select_users'] = "اختر المستخدم";
+$lang['complain_select_usertype'] = "حدد وسرتيب";
+$lang['complain_select_class'] = "حدد الفئة";
+$lang['complain_file_browse'] = "ملف استعراض";
+$lang['complain_clear'] = "واضح";
+$lang['complain_add'] = "إضافة";
+$lang['action'] = "عمل";
+$lang['view'] = "رأي";
+$lang['edit'] = "تصحيح";
+$lang['delete'] = "حذف";
+$lang['print'] = "طباعة";
+$lang['pdf_preview'] = "بدف معاينة";
+$lang["mail"] = "إرسال قوات الدفاع الشعبي إلى البريد";
+$lang['add_complain'] = "إضافة شكوى";
+$lang['update_complain'] = "تحديث الشكوى";
+$lang['to'] = "إلى";
+$lang['subject'] = "موضوع";
+$lang['message'] = "رسالة";
+$lang['send'] = "إرسال";
+$lang['mail_to'] = "حقل";
+$lang['mail_valid'] = "يجب أن يحتوي الحقل إلى عنوان بريد إلكتروني صالح.";
+$lang['mail_subject'] = "حقل الموضوع مطلوب.";
+$lang['mail_success'] = "إرسال البريد الإلكتروني بنجاح،";
+$lang['mail_error'] = "عفوا، البريد الإلكتروني لا ترسل،";

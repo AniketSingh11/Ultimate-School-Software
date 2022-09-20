@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "शिकायत";
+$lang['add_title'] = "शिकायत जोड़ें";
+$lang['slno'] = "#";
+$lang['complain_title'] = "शीर्षक";
+$lang['complain_usertypeID'] = "उपयोगकर्ता भूमिका";
+$lang['complain_userID'] = "उपयोगकर्ता";
+$lang['complain_classID'] = "कक्षा";
+$lang['complain_description'] = "विवरण";
+$lang['complain_attachment'] = "आसक्ति";
+$lang['complain_select_users'] = "उपयोगकर्ता चुनें";
+$lang['complain_select_usertype'] = "उपयोगिता का चयन करें";
+$lang['complain_select_class'] = "कक्षा चुनें";
+$lang['complain_file_browse'] = "फ़ाइल ब्राउज़ करें";
+$lang['complain_clear'] = "स्पष्ट";
+$lang['complain_add'] = "जोड़ना";
+$lang['action'] = "कार्य";
+$lang['view'] = "राय";
+$lang['edit'] = "संपादित करें";
+$lang['delete'] = "हटाना";
+$lang['print'] = "छाप";
+$lang['pdf_preview'] = "पीडीएफ पूर्वावलोकन";
+$lang["mail"] = "मेल को पीडीएफ भेजें";
+$lang['add_complain'] = "शिकायत जोड़ें";
+$lang['update_complain'] = "शिकायत अपडेट करें";
+$lang['to'] = "सेवा मेरे";
+$lang['subject'] = "विषय";
+$lang['message'] = "संदेश";
+$lang['send'] = "भेजना";
+$lang['mail_to'] = "को फ़ील्ड की आवश्यकता है।";
+$lang['mail_valid'] = "फ़ील्ड में एक मान्य ईमेल पता होना चाहिए।";
+$lang['mail_subject'] = "विषय फ़ील्ड आवश्यक है";
+$lang['mail_success'] = "ईमेल सफलतापूर्वक भेजें!";
+$lang['mail_error'] = "उफ़! ईमेल न भेजें!";

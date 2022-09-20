@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "เรื่อง";
+$lang['add_title'] = "เพิ่มเรื่อง";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "ชื่อชั้นเรียน";
+$lang['subject_teacher_name'] = "ชื่อครู";
+$lang['subject_student'] = "นักเรียน";
+$lang['subject_name'] = "ชื่อหัวเรื่อง";
+$lang['subject_author'] = "ผู้แต่งเรื่อง";
+$lang['subject_code'] = "รหัสหัวเรื่อง";
+$lang['subject_teacher'] = "ครู";
+$lang['subject_classes'] = "ชั้น";
+$lang['subject_type'] = "ชนิด";
+$lang['subject_optional'] = "ไม่จำเป็น";
+$lang['subject_mandatory'] = "จำเป็น";
+$lang['subject_passmark'] = "ผ่านมาร์ค";
+$lang['subject_finalmark'] = "มาร์คขั้นสุดท้าย";
+$lang['subject_select_class'] = "เลือก Class";
+$lang['subject_select_type'] = "เลือกประเภท";
+$lang['subject_select_classes'] = "เลือก Class";
+$lang['subject_select_teacher'] = "เลือกครู";
+$lang['subject_select_student'] = "เลือกนักเรียน";
+$lang['action'] = "การกระทำ";
+$lang['view'] = "ดู";
+$lang['edit'] = "แก้ไข";
+$lang['delete'] = "ลบ";
+$lang['add_subject'] = "เพิ่มหัวเรื่อง";
+$lang['update_subject'] = "อัปเดตเรื่อง";

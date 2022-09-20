@@ -1,0 +1,32 @@
+<?php
+
+$lang['panel_title'] = "Liburan";
+$lang['add_title'] = "Tambahkan Hari Libur";
+$lang['slno'] = "#";
+$lang['holiday_title'] = "Judul";
+$lang['holiday_details'] = "Rincian";
+$lang['holiday_date'] = "Tanggal";
+$lang['holiday_fdate'] = "Dari Tanggal";
+$lang['holiday_tdate'] = "Saat Ini";
+$lang['holiday_photo'] = "Foto";
+$lang['action'] = "Tindakan";
+$lang['holiday_file_browse'] = "File Browse";
+$lang['holiday_clear'] = "Bersih";
+$lang['holiday_header'] = "Rincian Liburan";
+$lang['view'] = "Melihat";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Menghapus";
+$lang['print'] = "Mencetak";
+$lang['pdf_preview'] = "Pdf Preview";
+$lang["mail"] = "Kirim Pdf Ke Mail";
+$lang['add_class'] = "Tambahkan Liburan";
+$lang['update_class'] = "Update Liburan";
+$lang['to'] = "Untuk";
+$lang['subject'] = "Subyek";
+$lang['message'] = "Pesan";
+$lang['send'] = "Kirim";
+$lang['mail_to'] = "Bidang Ke Harus Dilakukan.";
+$lang['mail_valid'] = "Bidang Ke Harus Berisi Alamat Email Yang Valid.";
+$lang['mail_subject'] = "Bidang Subyek Diperlukan.";
+$lang['mail_success'] = "Email Terkirim Berhasil!";
+$lang['mail_error'] = "Oops! Email Tidak Kirim!";

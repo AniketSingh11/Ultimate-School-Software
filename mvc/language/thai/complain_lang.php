@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "บ่น";
+$lang['add_title'] = "เพิ่มการร้องเรียน";
+$lang['slno'] = "#";
+$lang['complain_title'] = "หัวข้อ";
+$lang['complain_usertypeID'] = "บทบาทผู้ใช้";
+$lang['complain_userID'] = "ผู้ใช้งาน";
+$lang['complain_classID'] = "ชั้น";
+$lang['complain_description'] = "ลักษณะ";
+$lang['complain_attachment'] = "ความผูกพัน";
+$lang['complain_select_users'] = "เลือกผู้ใช้";
+$lang['complain_select_usertype'] = "เลือก Usertype";
+$lang['complain_select_class'] = "เลือก Class";
+$lang['complain_file_browse'] = "เรียกดูไฟล์";
+$lang['complain_clear'] = "ชัดเจน";
+$lang['complain_add'] = "เพิ่ม";
+$lang['action'] = "การกระทำ";
+$lang['view'] = "ดู";
+$lang['edit'] = "แก้ไข";
+$lang['delete'] = "ลบ";
+$lang['print'] = "พิมพ์";
+$lang['pdf_preview'] = "ดูตัวอย่าง Pdf";
+$lang["mail"] = "ส่ง Pdf ไปที่ Mail";
+$lang['add_complain'] = "เพิ่มการร้องเรียน";
+$lang['update_complain'] = "อัปเดตการร้องเรียน";
+$lang['to'] = "ไปยัง";
+$lang['subject'] = "เรื่อง";
+$lang['message'] = "ข่าวสาร";
+$lang['send'] = "ส่ง";
+$lang['mail_to'] = "ต้องระบุฟิลด์ To";
+$lang['mail_valid'] = "ฟิลด์ To ต้องมีที่อยู่อีเมลที่ถูกต้อง";
+$lang['mail_subject'] = "ต้องระบุช่องหัวเรื่อง";
+$lang['mail_success'] = "ส่งอีเมลสำเร็จแล้ว";
+$lang['mail_error'] = "โอ๊ะโอ! อีเมล์ไม่ได้ส่ง!";

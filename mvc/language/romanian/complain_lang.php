@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "Plânge";
+$lang['add_title'] = "Adăugați O Reclamație";
+$lang['slno'] = "#";
+$lang['complain_title'] = "Titlu";
+$lang['complain_usertypeID'] = "Rolul Utilizatorului";
+$lang['complain_userID'] = "Utilizator";
+$lang['complain_classID'] = "Clasă";
+$lang['complain_description'] = "Descriere";
+$lang['complain_attachment'] = "Atașament";
+$lang['complain_select_users'] = "Selectați Utilizator";
+$lang['complain_select_usertype'] = "Selectați Tip Utilizator";
+$lang['complain_select_class'] = "Selectați Clasa";
+$lang['complain_file_browse'] = "Vizualizați Fișierul";
+$lang['complain_clear'] = "Clar";
+$lang['complain_add'] = "Adăuga";
+$lang['action'] = "Acțiune";
+$lang['view'] = "Vedere";
+$lang['edit'] = "Editați | ×";
+$lang['delete'] = "Șterge";
+$lang['print'] = "Imprimare";
+$lang['pdf_preview'] = "Previzualizare Pdf";
+$lang["mail"] = "Trimiteți Pdf La Poștă";
+$lang['add_complain'] = "Adăugați Complain";
+$lang['update_complain'] = "Actualizați Reclamația";
+$lang['to'] = "La";
+$lang['subject'] = "Subiect";
+$lang['message'] = "Mesaj";
+$lang['send'] = "Trimite";
+$lang['mail_to'] = "Este Necesar Câmpul Către.";
+$lang['mail_valid'] = "Câmpul To Trebuie Să Conțină O Adresă De E-mail Validă.";
+$lang['mail_subject'] = "Este Necesar Câmpul Subiect.";
+$lang['mail_success'] = "E-mailul Trimite Cu Succes!";
+$lang['mail_error'] = "Oops! E-mail Nu Trimite!";

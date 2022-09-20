@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "পরীক্ষার উপস্থিতি";
+$lang['add_title'] = "পরীক্ষার উপস্থিতি যোগ করুন";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "ছবি";
+$lang['eattendance_name'] = "নাম";
+$lang['eattendance_email'] = "ইমেইল";
+$lang['eattendance_roll'] = "রোল";
+$lang['eattendance_phone'] = "ফোন";
+$lang['eattendance_attendance'] = "উপস্থিতি";
+$lang['eattendance_section'] = "অধ্যায়";
+$lang['eattendance_exam'] = "পরীক্ষা";
+$lang['eattendance_classes'] = "শ্রেণী";
+$lang['eattendance_subject'] = "বিষয়";
+$lang['eattendance_status'] = "অবস্থা";
+$lang['eattendance_student'] = "ছাত্র";
+$lang['eattendance_all_students'] = "সমস্ত ছাত্র";
+$lang['eattendance_present'] = "বর্তমান";
+$lang['eattendance_absent'] = "অনুপস্থিত";
+$lang['eattendance_details'] = "পরীক্ষার এ্যাটেনডেন্স বিবরণ";
+$lang['eattendance_select_exam'] = "পরীক্ষা নির্বাচন করুন";
+$lang['eattendance_select_classes'] = "ক্লাস নির্বাচন করুন";
+$lang['eattendance_select_subject'] = "বিষয় নির্বাচন করুন";
+$lang['eattendance_select_section'] = "বিভাগ নির্বাচন করুন";
+$lang['eattendance_select_student'] = "ছাত্র নির্বাচন করুন";
+$lang['action'] = "কর্ম";
+$lang['add_attendance'] = "উপস্থিতি";
+$lang['add_all_attendance'] = "সমস্ত উপস্থিতি অন্তর্ভুক্ত করুন";
+$lang['view_attendance'] = "এ্যাটেনডেন্স দেখুন";

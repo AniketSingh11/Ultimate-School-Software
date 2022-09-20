@@ -1,0 +1,36 @@
+<?php
+
+$lang['panel_title'] = "Мероприятие";
+$lang['add_title'] = "Добавить событие";
+$lang['slno'] = "#";
+$lang['event_title'] = "заглавие";
+$lang['event_details'] = "Детали";
+$lang['event_header'] = "Информация о мероприятии";
+$lang['event_date'] = "Дата";
+$lang['event_fdate'] = "С даты";
+$lang['event_tdate'] = "Встретиться";
+$lang['event_photo'] = "Фото";
+$lang['event_name'] = "имя";
+$lang['event_user'] = "пользователь";
+$lang['action'] = "действие";
+$lang['event_clear'] = "Очистить";
+$lang['event_file_browse'] = "Просмотр файлов";
+$lang['view'] = "Посмотреть";
+$lang['edit'] = "редактировать";
+$lang['delete'] = "Удалить";
+$lang['print'] = "Распечатать";
+$lang['pdf_preview'] = "Предварительный просмотр Pdf";
+$lang["mail"] = "Отправить Pdf в Mail";
+$lang['going'] = "Собирается";
+$lang['ignore'] = "игнорировать";
+$lang['add_class'] = "Добавить событие";
+$lang['update_class'] = "Обновить событие";
+$lang['to'] = "к";
+$lang['subject'] = "Предмет";
+$lang['message'] = "Сообщение";
+$lang['send'] = "послать";
+$lang['mail_to'] = "Поле Кому необходимо.";
+$lang['mail_valid'] = "Поле To должно содержать действительный адрес электронной почты.";
+$lang['mail_subject'] = "Поле Subject необходимо.";
+$lang['mail_success'] = "Электронная почта отправляется успешно!";
+$lang['mail_error'] = "Oops! Email не отправляет!";

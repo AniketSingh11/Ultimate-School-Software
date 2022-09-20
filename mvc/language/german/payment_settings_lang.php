@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "Zahlungseinstellungen";
+$lang['paypal_email'] = "Paypal Email";
+$lang['paypal_api_username'] = "Paypal Api Benutzername";
+$lang['paypal_api_password'] = "Paypal Api Passwort";
+$lang['paypal_api_signature'] = "Paypal Api Unterschrift";
+$lang['paypal_demo'] = "Paypal Sandkasten";
+$lang['paypal_status'] = "Paypal Status";
+$lang['stripe_secret'] = "Stripe Geheimnis";
+$lang['stripe_demo'] = "Streifen-demo";
+$lang['stripe_status'] = "Streifenstatus";
+$lang['payumoney_key'] = "Payumoney Key";
+$lang['payumoney_salt'] = "Payumoney Salz";
+$lang['payumoney_demo'] = "Payumoney Demo";
+$lang['payumoney_status'] = "Payumoney Status";
+$lang['voguepay_merchant_id'] = "Händler-id";
+$lang['voguepay_merchant_ref'] = "Händlerreferenz";
+$lang['voguepay_developer_code'] = "Entwicklercode";
+$lang['voguepay_demo'] = "Demo";
+$lang['voguepay_status'] = "Status";
+$lang['enable'] = "Aktivieren";
+$lang['disable'] = "Deaktivieren";
+$lang['save'] = "Sparen";
+$lang['tab_paypal'] = "Paypal";
+$lang['tab_stripe'] = "Streifen";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "Aktualisierung Erfolgreich!";
